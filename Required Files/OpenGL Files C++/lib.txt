@@ -1,0 +1,5 @@
+GLAUX.lib
+GLU32.lib
+glut.lib
+glut32.lib
+OPENGL32.lib
